@@ -1,0 +1,10 @@
+#my-input {
+    padding: 3px;
+}
+#my-button {
+    padding: 3px;
+    background-color:rgb(51, 223, 223);
+    border: none;
+    border: 1px solid #333;
+    margin-top: 5px;
+}

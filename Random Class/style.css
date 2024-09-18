@@ -1,0 +1,27 @@
+.class-one h2 {
+    color: red;
+}
+.class-one p {
+    color: red;
+}
+
+.class-two h2 {
+    color: green;
+}
+.class-two p {
+    color: green;
+}
+
+.class-three h2 {
+    color: blue;
+}
+.class-three p {
+    color: blue;
+}
+
+.class-four h2 {
+    color: blueviolet;
+}
+.class-four p {
+    color: blueviolet;
+}

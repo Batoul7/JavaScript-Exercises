@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 20px auto;
+    width: 1200px;
+}
+.container .color-switcher {
+    list-style: none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container .color-switcher li {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 5px;
+}
+.container .color-switcher li:first-child {
+    background-color: red;
+}
+.container .color-switcher li:nth-child(2) {
+    background-color: green;
+}
+.container .color-switcher li:nth-child(3) {
+    background-color: blue;
+}
+.container .color-switcher li:nth-child(4){
+    background-color: black;
+}
+.container h3 {
+    color: red;
+}
+.container div {
+    background-color: red;
+    padding: 20px;
+    color: white;
+}
+.red .container h3 {
+    color: red;
+}
+.red .container div {
+    background-color: red;
+    padding: 20px;
+    color: white;
+}
+.green .container h3 {
+    color: green;
+}
+.green .container div {
+    background-color: green;
+    padding: 20px;
+    color: white;
+}
+.blue .container h3 {
+    color: blue;
+}
+.blue .container div {
+    background-color: blue;
+    padding: 20px;
+    color: white;
+}
+.black .container h3 {
+    color: black;
+}
+.black .container div {
+    background-color: black;
+    padding: 20px;
+    color: white;
+}

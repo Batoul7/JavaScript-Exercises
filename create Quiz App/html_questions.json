@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Why We Use <br> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Add Horizontal Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title": "Why We Use <a> Element",
+        "answer_1": "To Add Image",
+        "answer_2": "To Add Link",
+        "answer_3": "To Add Text",
+        "answer_4": "To Add Box",
+        "right_answer": "To Add Link"
+    },
+    {
+        "title": "Is <img> Element Has Attribute href",
+        "answer_1": "Yes",
+        "answer_2": "No Its For Anchor Tag <a>",
+        "answer_3": "All Element Has This Attribute",
+        "answer_4": "Answer 1 And 3 Is Right",
+        "right_answer": "No Its For Anchor Tag <a>"
+    },
+    {
+        "title": "How can We Make Element Bold",
+        "answer_1": "Putting It Inside <b> Tag",
+        "answer_2": "Putting It Inside <strong> Tag",
+        "answer_3": "customizing It With Font-weight Property In Css",
+        "answer_4": "All Answers Is Right",
+        "right_answer": "All Answers Is Right"
+    },
+    {
+        "title": "In HTML Can We Use This Way To Add Attribute",
+        "answer_1": "<div class='class-name'>",
+        "answer_2": "<div class=class-name>",
+        "answer_3": "<div class=\"class-name\">",
+        "answer_4": "All Answers Is Right",
+        "right_answer": "All Answers Is Right"
+    },
+    {
+        "title": "What Is The Element thats Not Exists in HTML5 semantics",
+        "answer_1": "<article>",
+        "answer_2": "<section>",
+        "answer_3": "<blockquote>",
+        "answer_4": "<aside>",
+        "right_answer": "<blockquote>"
+    },
+    {
+        "title": "How We Specify Document Tupe of HTML5 page",
+        "answer_1": "<DOCTYPE html>",
+        "answer_2": "<DOCTYPE html5>",
+        "answer_3": "<!DOCTYPE html5>",
+        "answer_4": "<!DOCTYPE html>",
+        "right_answer": "<!DOCTYPE html>"
+    }
+]

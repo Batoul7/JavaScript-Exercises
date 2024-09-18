@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Tahoma, Arial;
+}
+.parent {
+    width: 600px;
+    margin: 40px auto;
+    background-color: #eee;
+    padding: 20px;
+}
+.parent input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    border: none;
+}
+.parent input:focus {
+    outline: none;
+}
+.parent .buttons {
+    display: flex;
+    justify-content: space-between;
+}
+.buttons span {
+    background-color: #009688;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.parent .results {
+    background-color: white;
+    text-align: center;
+    margin-top: 15px;
+    padding: 20px;
+}
+.parent .results span span {
+    color: #009688;
+    font-weight: bold;
+}
+.parent .results span .key {
+    display: block;
+}
